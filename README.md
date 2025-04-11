@@ -2,5 +2,5 @@
 
 - :mortar_board: MSc student at University of São Paulo.
 - :four_leaf_clover: Brazilian, Software Engineer.
-- :computer: Java, Typescript, Javascript, Python, C++.
+- :computer: Java, Typescript, Python, Ruby, C++.
 - 🍝 Listening to music, reading, and coding.
