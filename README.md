@@ -4,4 +4,4 @@
 - :four_leaf_clover: Brazilian, Software Engineer.
 - :computer: Java, Typescript, Python, Ruby, C++.
 - 🍝 Listening to music, reading, and coding.
-- ✉️ Mail to find@minari.xyz
+- ✉️ Mail to find@minari.xyz.
